@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "912653253894",
+    "firebase_url": "https://realtimedatabase-177cb.firebaseio.com",
+    "project_id": "realtimedatabase-177cb",
+    "storage_bucket": "realtimedatabase-177cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912653253894:android:ddc5e7131caedc356c7287",
+        "android_client_info": {
+          "package_name": "com.example.foodorderapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912653253894-o9sglufjmurt2rcmmtbi2ik76b56sbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAck6rNJn9zas15dPS8PUiyYxB42Zk8dIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912653253894-o9sglufjmurt2rcmmtbi2ik76b56sbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912653253894:android:fb71e110498742b0",
+        "android_client_info": {
+          "package_name": "dohome.co.th.androidfirebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912653253894-dj55ohavtpbbq8pqt95vtario2oegask.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dohome.co.th.androidfirebaserealtimedatabase",
+            "certificate_hash": "ed34296317bc1231b583991a0a59f5a07c871cdf"
+          }
+        },
+        {
+          "client_id": "912653253894-o9sglufjmurt2rcmmtbi2ik76b56sbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAck6rNJn9zas15dPS8PUiyYxB42Zk8dIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912653253894-o9sglufjmurt2rcmmtbi2ik76b56sbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912653253894:android:ed68ff5a83d32b10",
+        "android_client_info": {
+          "package_name": "th.co.dohome.jao_th.firebaseandanimation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912653253894-fug2lo6ncfqf4d26qbsctu3nl6amebse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.co.dohome.jao_th.firebaseandanimation",
+            "certificate_hash": "ed34296317bc1231b583991a0a59f5a07c871cdf"
+          }
+        },
+        {
+          "client_id": "912653253894-o9sglufjmurt2rcmmtbi2ik76b56sbjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAck6rNJn9zas15dPS8PUiyYxB42Zk8dIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912653253894-o9sglufjmurt2rcmmtbi2ik76b56sbjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
